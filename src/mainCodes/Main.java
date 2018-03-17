@@ -1,4 +1,4 @@
-package ½£Ö¸offer_java;
+package mainCodes;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

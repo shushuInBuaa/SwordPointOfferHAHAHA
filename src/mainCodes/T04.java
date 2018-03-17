@@ -1,4 +1,4 @@
-package ½£Ö¸offer_java;
+package mainCodes;
 
 public class T04 {
 	public static void main(String args[])
